@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "montserrat";
+    src: url("fonts/montserrat/Montserrat-Medium.otf");
+}
+
+.header-logo{
+    font-family: montserrat, sans-serif;
+}
